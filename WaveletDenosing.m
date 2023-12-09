@@ -1,4 +1,4 @@
-% Generate noissin signal
+% Generate signal
 t = 0:1:1000;
 f = sin(0.03 * t);
 
